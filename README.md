@@ -92,7 +92,7 @@ You are free to use, share, and adapt these patterns for any purpose, including 
 
 **Suggested attribution:**
 
-> Adapted from [aisecuritydevprompts](https://github.com/anshug/aisecuritydevprompts) by Anshu Gupta, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+> Adapted from [agent-safety-prompts](https://github.com/anshug/agent-safety-prompts/) by Anshu Gupta, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 For inline use in a system prompt or `AGENTS.md` file, a single-line credit is enough:
 
