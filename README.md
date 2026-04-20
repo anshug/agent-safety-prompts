@@ -1,8 +1,10 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-# AI Security Dev Prompts
+# Agent Safety Prompts
 
-**Prompt patterns for safe and secure AI-assisted development.**
+**Drop-in prompt patterns, policy blocks, and checklists for building safe AI agents.**
+
+A curated reference for teams building agents that use Computer Use, Playwright, Selenium, MCP servers, or code-execution harnesses. Every block is written to be pasted directly into a system prompt, AGENTS.md, or agent policy file.
 
 A curated, drop-in set of prompt blocks and policy templates for builders who run agents that touch real systems: browsers, VMs, code-execution harnesses, MCP servers, and operating-system level tools. Every block here is written to be pasted directly into a system prompt, `AGENTS.md`, or agent policy file.
 
