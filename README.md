@@ -80,7 +80,7 @@ Pull requests are welcome. See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for the ba
 
 ## License
 
-MIT. See [`LICENSE`](./LICENSE). You can use these blocks in commercial and non-commercial projects without attribution, though attribution is appreciated.
+CC BY 4.0. See [`LICENSE`](./LICENSE). You can use these blocks in commercial and non-commercial projects without attribution, though attribution is appreciated.
 
 ## Maintainer
 
