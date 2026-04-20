@@ -82,6 +82,22 @@ Pull requests are welcome. See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for the ba
 
 CC BY 4.0. See [`LICENSE`](./LICENSE). You can use these blocks in commercial and non-commercial projects without attribution, though attribution is appreciated.
 
+## License
+
+This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). See [`LICENSE`](./LICENSE) for the full text.
+
+You are free to use, share, and adapt these patterns for any purpose, including commercial use, provided you give appropriate credit.
+
+**Suggested attribution:**
+
+> Adapted from [aisecuritydevprompts](https://github.com/anshug/aisecuritydevprompts) by Anshu Gupta, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+For inline use in a system prompt or `AGENTS.md` file, a single-line credit is enough:
+
+```
+# Adapted from aisecuritydevprompts (https://github.com/anshug/aisecuritydevprompts) by Anshu Gupta, CC BY 4.0
+```
+
 ## Maintainer
 
-Curated by [Anshu Gupta](https://github.com/anshug), Founder and CISO, Fixin Security. Part of the broader [Tejas Cyber Network](https://tejas.network) community resource set.
+Curated by [Anshu Gupta](https://github.com/anshug), Founder and CISO, Fixin Security. Part of the broader [Tejas Cyber Network](https://www.tejascybernetwork.com) community resource set.
