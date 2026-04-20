@@ -24,6 +24,7 @@ Thanks for considering a contribution. This repo aims to be a curated, high-sign
 - Sweeping policy statements that are not concrete enough to encode in a prompt
 - Patterns that restate existing patterns with different wording
 - Patterns that depend on closed-source or proprietary tooling to verify
+- Content copied from third-party sources without a license that permits redistribution under CC BY 4.0
 
 ## Pull request process
 
@@ -31,7 +32,7 @@ Thanks for considering a contribution. This repo aims to be a curated, high-sign
 2. Keep PRs scoped. One pattern or one policy block per PR.
 3. Match the existing file structure: each pattern or policy file has a category, purpose, drop-in block, adaptation notes, and related links section.
 4. Do not use em dashes in content. Use regular dashes or rewrite the sentence.
-5. Cite your sources. If the pattern is adapted from a public guide, link it.
+5. Cite your sources. If the pattern is adapted from a public guide, link it. Confirm in the PR description that any adapted content is licensed compatibly with CC BY 4.0.
 
 ## Style
 
@@ -42,7 +43,31 @@ Thanks for considering a contribution. This repo aims to be a curated, high-sign
 
 ## Licensing
 
-By contributing you agree that your contribution is licensed under the same MIT License as the rest of the repo.
+This repository is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). See [`LICENSE`](./LICENSE) for the full text and https://creativecommons.org/licenses/by/4.0/ for a plain-language summary.
+
+By submitting a contribution, you agree that:
+
+1. Your contribution will be licensed under CC BY 4.0, the same license as the rest of the repository.
+2. You have the right to submit the contribution. It is either your original work, or you are authorized by the copyright holder to submit it under CC BY 4.0.
+3. You retain copyright to your contribution. The license grants downstream users permission to use, share, and adapt your work, provided they give appropriate credit.
+
+If your contribution includes adapted content from another source, you must:
+
+- Name the source in the PR description, with a link
+- Confirm that the source license is compatible with CC BY 4.0 (for example: public domain, CC0, CC BY 4.0, or content you authored and own)
+- Preserve any attribution required by the source license within the contribution itself
+
+Contributions that bundle content under incompatible terms (for example, CC BY-NC, CC BY-ND, GPL-style share-alike for non-code content, proprietary, or unlicensed third-party text) cannot be accepted.
+
+## Attribution for contributors
+
+Contributors are credited in the following ways:
+
+- The git commit history preserves your authorship on every merged PR
+- Significant contributors will be listed in a `CONTRIBUTORS` file (to be added when contributions begin)
+- For patterns primarily authored by a contributor, the pattern file may include an `Author:` line in the header
+
+If you prefer a different credit format, for example a pseudonym or withholding your name entirely, note the preference in your PR description and we will honor it.
 
 ## Questions
 
