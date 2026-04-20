@@ -97,7 +97,7 @@ You are free to use, share, and adapt these patterns for any purpose, including 
 For inline use in a system prompt or `AGENTS.md` file, a single-line credit is enough:
 
 ```
-# Adapted from aisecuritydevprompts (https://github.com/anshug/aisecuritydevprompts) by Anshu Gupta, CC BY 4.0
+# Adapted from agent-safety-prompts(https://github.com/anshug/agent-safety-prompts/) by Anshu Gupta, CC BY 4.0
 ```
 
 ## Maintainer
